@@ -17,4 +17,5 @@ function greet(name){
     console.log('hello'+ '' + name);
 }
 
-greet('maina')
+greet('maina');
+

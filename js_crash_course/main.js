@@ -199,4 +199,9 @@ class person {
 // const btn = document.querySelector('.btn');
 // btn.style.background = 'red';
 
+const btn = document.querySelector('.btn');
 
+btn.addEventListener('click', (e) => {
+   // e.preventDefault();
+    console.log('click');
+});
